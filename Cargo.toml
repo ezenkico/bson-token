@@ -1,0 +1,7 @@
+[workspace]
+members = ["core", "example"]
+
+[workspace.dependencies]
+ring = "0.17.8"
+bson = "2.9.0"
+serde = "1.0.197"
